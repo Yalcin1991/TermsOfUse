@@ -1,4 +1,4 @@
-#Gebruiksvoorwaarden
+# Gebruiksvoorwaarden
 
 NL
 
@@ -52,7 +52,7 @@ Als u vragen heeft over deze voorwaarden, kunt u contact met ons opnemen via nar
 
 ________________________________________________________________________________________________________________________
 
-#Terms of Use
+# Terms of Use
 
 EN
 
